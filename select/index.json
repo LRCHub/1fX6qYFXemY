@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Prism Melody",
+  "base_artist": "hololive IDOL PROJECT",
+  "createdAt": "2025-12-18T04:37:27.269274Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Prism Melody",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": true,
+      "path": "select/01_Prism_Melody_hololive_IDOL_PROJECT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Prism Melody",
+      "artist": "hololive IDOL PROJECT",
+      "has_synced": false,
+      "path": "select/pl_01_Prism_Melody_hololive_IDOL_PROJECT.txt"
+    }
+  ]
+}
